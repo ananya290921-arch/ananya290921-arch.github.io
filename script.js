@@ -1,4 +1,4 @@
-document.addEventlistener('DOMContentLoaded',function () {
- document.getElementByld('year').innerHTML=new Date().getFullYear();  
+document.addEventListenr('DOMContentLoaded',function () {
+ document.getElementById('year').innerHTML=new Date().getFullYear();  
   console.log('Portfolioของ Ananya พร้อมแล้ว!';
 });
